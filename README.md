@@ -8,7 +8,8 @@
 
 - [x] [Sesión 1 - ¿Qué es TouchDesigner](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s01.md) - 29 enero - 2 de febrero.
 - [x] [Sesión 2 - Introducción a TOPs](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s02.md) - 05 - 09 enero
-- [ ] [Sesión 3 - TOPs 2 e introducción a CHOPs](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s03.md) - 12 - 16 de febrero. 
+- [x] [Sesión 3 - TOPs 2 e introducción a CHOPs](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s03.md) - 12 - 16 de febrero. 
+- [ ] [Sesion 4 - CHOPs 2](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s04.md) - 19 - 23 de febrero. 
 
 ## Recursos
 
